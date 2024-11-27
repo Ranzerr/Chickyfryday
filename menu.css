@@ -1,0 +1,45 @@
+body{
+	background-color: orange;
+	background-attachment: fixed;
+
+.container{
+	text-align: center;
+	border-style: solid;
+	border-color: black;
+	position: relative;
+	width: 50%;
+	margin-top: 10%;
+	left: 25%;
+	background-color:orangered ;
+	border-radius: 10px;
+
+}
+ul{
+	list-style-type: none;
+}
+li{
+	text-align: center;
+	margin-right:35px ;
+	font-size: 25px;
+	padding: 10px 0px 20px 0px;
+	border-style: solid;
+	border-color: black;
+	margin-top: 10px;
+	background-color: orange;
+}
+.header{
+	color: black;
+	font-size: 20px;
+}
+.home{
+	border: solid 2px blue;
+	width: 8%;
+	text-align: center;
+	position: relative;
+	top: 50px;
+	left: 10%;
+	background-color: orangered;
+	padding: 10px;
+	font-size: 25px;
+	border-radius: 10px;
+}

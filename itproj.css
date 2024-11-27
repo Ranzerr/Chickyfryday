@@ -1,0 +1,48 @@
+body{
+	background-color: orange;
+	background-attachment: fixed;
+	border: solid 2px black;
+}
+h1{
+	text-align: center;
+	color: black;
+}
+.header{
+	margin: 0px 400px;
+	border-radius: 10px;
+	border-color: black;
+	border-style: solid;
+	background-color: orangered;
+}
+table, th, tr,td{
+	border-style: solid;
+	border-color: black;	
+	font-size: 25px;
+	border-radius: 10px;
+	padding: 10px;
+	text-transform: capitalize;
+
+}
+button{
+	margin: 25px 0px 0px 25px;
+	border-radius:10px;
+	font-size: 25px;
+}
+.footer{
+	background-color: #3C3D37;
+	padding-bottom: 160px;
+}
+p{
+ color: white;
+ margin: 0px 0px 0px 150px;
+ padding-top: 20px;
+}
+footer{
+	display: inline-flex;
+}
+table{
+	background-color: orangered;
+}
+th, tr,td{
+	background-color: orange;
+}
