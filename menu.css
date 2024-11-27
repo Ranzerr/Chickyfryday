@@ -43,3 +43,7 @@ li{
 	font-size: 25px;
 	border-radius: 10px;
 }
+.home a, .menu a  {
+ 	text-decoration: none;
+ 	color: black;
+}
